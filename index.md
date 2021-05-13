@@ -1,4 +1,5 @@
 ## BTS 챗봇 예제
+![girls_PNG95328](https://user-images.githubusercontent.com/82551476/118125252-b2bc1580-b431-11eb-91c9-11e41a9fb3ef.png)
 
 You can use the [editor on GitHub](https://github.com/Kim-Geun-Ho/BTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,7 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-![girls_PNG95328](https://user-images.githubusercontent.com/82551476/118125252-b2bc1580-b431-11eb-91c9-11e41a9fb3ef.png)
 
 # Header 1
 ## Header 2
