@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BTS 챗봇 예제
 
 You can use the [editor on GitHub](https://github.com/Kim-Geun-Ho/BTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
